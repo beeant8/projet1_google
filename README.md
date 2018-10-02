@@ -1,2 +1,3 @@
 # projet1_google
-projet jour 2
+
+design by Florian PINTO et Priscille DE LA TOUR
