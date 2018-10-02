@@ -1,4 +1,36 @@
-.navtabs
+header
+ {
+display: flex;
+justify-content: flex-end;
+}
+
+header ul
 {
-	flex-flow: row ;
+list-style-type: none;
+display: flex;
+align-items: center;
+}
+header li
+{
+	margin: 0px 6px;
+}
+#main
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+footer
+{
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-end;
+}
+footer ul
+{
+	list-style-type: none;
+	display: flex;
+	align-items: center;
+
 }
